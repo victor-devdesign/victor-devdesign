@@ -1,4 +1,8 @@
-### Hi there 👋
+<p align="center"><img width="90%" height="175px" src="./assets/gif/header.gif"" /></p>
+
+<hr>
+
+<p align="center"><img width="100%" src="./assets/gif/hello.gif"" /></p>
 
 <!--
 **victor-devdesign/victor-devdesign** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
