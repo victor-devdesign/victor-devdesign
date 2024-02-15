@@ -13,4 +13,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+Ref. Links
+
+- https://github.com/anuraghazra/anuraghazra/blob/master/README.md
+- https://github.com/adamalston/adamalston/blob/master/README.md
+- https://github.com/jh3y/jh3y/blob/master/README.md?plain=1
+- https://github.com/WaylonWalker/WaylonWalker/blob/main/README.md
+- https://github.com/xiaoluoboding/xiaoluoboding/blob/master/README.md
+- https://github.com/akasrai/akasrai/blob/master/README.md
+
 -->
