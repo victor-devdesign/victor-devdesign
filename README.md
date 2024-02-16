@@ -1,8 +1,12 @@
 
-<p align="center"><img width="100%" src="./assets/gif/hello.gif"" /></p>
-<p align="end"><img width="6%" src="./assets/svg/via-logo-white.svg"" /></p>
+<p align="center"><img width="100%" src="./assets/gif/hello_desc.gif"/></p>
+<p align="end"><img width="6%" src="./assets/svg/via-logo-white.svg"/></p>
 
 <hr>
+
+<!--
+**victor-devdesign/victor-devdesign** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
 ### Connect
 [![Behance](https://img.shields.io/badge/-Victor%20Araujo-000?&logo=Behance&logoColor=ffffff)](https://www.behance.net/victorarajo11)
@@ -57,32 +61,6 @@
 ![Adobe InDesign](https://img.shields.io/badge/-InDesign-FF3366?&logo=Adobe-InDesign&logoColor=ffffff)
 ![Figma](https://img.shields.io/badge/-Figma-9e62f6?&logo=Figma&logoColor=ffffff)
 
-<!--
-**victor-devdesign/victor-devdesign** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-Ref. Links
-
-- https://github.com/anuraghazra/anuraghazra/blob/master/README.md
-- https://github.com/adamalston/adamalston/blob/master/README.md
-- https://github.com/jh3y/jh3y/blob/master/README.md?plain=1
-- https://github.com/WaylonWalker/WaylonWalker/blob/main/README.md
-- https://github.com/xiaoluoboding/xiaoluoboding/blob/master/README.md
-- https://github.com/akasrai/akasrai/blob/master/README.md
-
--->
-
-
 <p align="center">
-<img height="150px" src="https://github-readme-stats.vercel.app/api?username=victor-devdesign&show_icons=true&include_all_commits=true&count_private=true&line_height=30&text_color=fff&icon_color=C1A56D&bg_color=0D1117&theme=rose_pine " /><img width="5%"></img><img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victor-devdesign&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+<img height="150px" src="https://github-readme-stats.vercel.app/api?username=victor-devdesign&show_icons=true&include_all_commits=true&count_private=true&line_height=30&text_color=fff&icon_color=C1A56D&bg_color=0D1117&theme=rose_pine"/><img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victor-devdesign&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite"/>
 </p>
