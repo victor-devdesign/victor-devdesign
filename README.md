@@ -22,7 +22,7 @@
 - 👨🏽‍🎓 Systems Analysis and Development Technician;
 - 🎓 Future Computer Scientist;
 - ⌨️ I am currently a Full-Stack ⌨️ Freelance Developer;
-- 🎨 Graphic and Web Designer;
+- 🎨 Graphic and Web Designer by **Saga Art**;
 
 ### My Tech Stacks
 
